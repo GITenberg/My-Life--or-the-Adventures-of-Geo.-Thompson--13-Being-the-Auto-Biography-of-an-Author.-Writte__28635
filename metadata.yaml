@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '32871'
     url: http://www.gutenberg.org/2009/agents/32871
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28635#My-Life--or-the-Adventures-of-Geo.-Thompson--13-Being-the-Auto-Biography-of-an-Author.-Writte_
 gutenberg_issued: '2009-04-29'
 gutenberg_type: Text
 identifiers:
